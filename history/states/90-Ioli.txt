@@ -1,0 +1,14 @@
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		34 525 1518 1861 1965 
+	}	
+	history = {
+		owner = CSC 
+		add_core_of = CSC
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

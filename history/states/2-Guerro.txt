@@ -1,0 +1,11 @@
+
+state={
+	id=2
+	name="Guerrera"
+	provinces={
+		1111 1726 1789 1892 2104 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

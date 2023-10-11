@@ -1,0 +1,10 @@
+state={
+	id=112
+	name="C5"
+	provinces={
+		298 854 1308 2024 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}

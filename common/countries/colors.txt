@@ -1,0 +1,9 @@
+XYZ = {
+	color = rgb { 128 128 128 }
+	color_ui = rgb { 128 128 128 }
+}
+
+CSC = {
+	color = rgb { 0 255 128 }
+	color_ui  = rgb { 0 225 98 }
+}
