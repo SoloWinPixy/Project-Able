@@ -1,0 +1,37 @@
+
+state={
+	id=63
+	name="STATE_63"
+	manpower = 5510441
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=9
+		rubber=0
+		steel=0
+		tungsten=8
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			1016 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		67 1016 1136 1953 2028 2578 3299 3370 3641 3785 6610 
+	}
+	local_supplies=0.0 
+}

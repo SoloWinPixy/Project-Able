@@ -1,0 +1,37 @@
+
+state={
+	id=441
+	name="STATE_441"
+	manpower = 3874099
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=8
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			4096 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		671 2387 2605 2711 2771 3356 4096 4672 4863 6666 
+	}
+	local_supplies=0.0 
+}

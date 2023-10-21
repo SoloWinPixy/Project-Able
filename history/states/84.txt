@@ -1,0 +1,34 @@
+
+state={
+	id=84
+	name="STATE_84"
+	manpower = 2325951
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=6
+		oil=13
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		90 3093 3342 3385 3615 3769 4118 4465 4599 6596 6637 
+	}
+	local_supplies=0.0 
+}

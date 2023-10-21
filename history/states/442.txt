@@ -1,0 +1,34 @@
+
+state={
+	id=442
+	name="STATE_442"
+	manpower = 7134688
+	
+	state_category = city
+	resources={
+		aluminium=3
+		chromium=6
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		672 1624 1982 2370 2756 3414 4602 4799 5345 6114 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=440
+	name="STATE_440"
+	manpower = 1228546
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=9
+		oil=0
+		rubber=23
+		steel=10
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		669 1545 1774 2702 3121 3412 3955 5446 6632 
+	}
+	local_supplies=0.0 
+}

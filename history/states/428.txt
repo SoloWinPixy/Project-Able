@@ -1,0 +1,34 @@
+
+state={
+	id=428
+	name="STATE_428"
+	manpower = 3985185
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		631 1596 1979 2471 3038 3499 4623 4634 4764 6497 6951 
+	}
+	local_supplies=0.0 
+}

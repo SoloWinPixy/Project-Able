@@ -1,0 +1,37 @@
+
+state={
+	id=243
+	name="STATE_243"
+	manpower = 5901933
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			987 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		282 529 987 1645 2510 3963 5442 5795 5826 6202 6608 
+	}
+	local_supplies=0.0 
+}

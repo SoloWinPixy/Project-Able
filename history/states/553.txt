@@ -1,0 +1,34 @@
+
+state={
+	id=553
+	name="STATE_553"
+	manpower = 2224947
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=9
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		1002 1024 1073 3261 3519 3921 4105 6611 7003 
+	}
+	local_supplies=0.0 
+}

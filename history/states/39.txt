@@ -1,0 +1,37 @@
+
+state={
+	id=39
+	name="STATE_39"
+	manpower = 3837650
+	
+	state_category = metropolis
+	resources={
+		aluminium=7
+		chromium=0
+		oil=0
+		rubber=0
+		steel=11
+		tungsten=11
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			2192 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		41 759 2192 4295 5491 5596 5663 6285 6647 
+	}
+	local_supplies=0.0 
+}

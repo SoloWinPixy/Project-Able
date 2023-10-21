@@ -1,0 +1,34 @@
+
+state={
+	id=465
+	name="STATE_465"
+	manpower = 1636980
+	
+	state_category = pastoral
+	resources={
+		aluminium=0
+		chromium=10
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = UHE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = UHE
+	}
+
+	provinces={
+		730 1214 1682 2595 2838 3282 3467 6897 7310 7323 
+	}
+	local_supplies=0.0 
+}
